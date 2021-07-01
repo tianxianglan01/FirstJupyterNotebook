@@ -13,7 +13,10 @@ There is a CSV in here. Within in a new jupyter notebook answer the following qu
 - How many aquariums?
 - What museum or related organization had the highest revenue last year? 
 - How does the composition of museum types differ across the country?
+- For each type of museum, statistical measure on revenue and income?
 
 ## Viz
 
 Create a visualization of some aspect of the data set. Perhaps a chart showing museums/zoos/aquariums per state...
+
+Show a chart/plot/visualization which shows the distribution of money across the data set.
