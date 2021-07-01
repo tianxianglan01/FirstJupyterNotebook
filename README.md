@@ -1,10 +1,13 @@
 # FirstJupyterNotebook
 
-Fork this, then clone it. When you are finished with the analysis, commit it, and push it back to your fork.
+Fork this, then clone it. Create a new jupyter notebook. Figure out how to use Pandas to answer the questions below. 
+When you are finished with the analysis, commit it, and push it back to your fork.
 
-There is a CSV in here. Within in a new jupyter notebook answer the following questions.
+There is a CSV in here, `museums.csv`
 
 ## Questions about the data set
+
+Within in the new jupyter notebook answer the following questions.
 
 - Which city or state has the most museums per capita? 
 - Which city or state has the least museums per capita? 
